@@ -1,7 +1,7 @@
 # Horiseon Challenge 1
 
 Deployed URL:
-http://127.0.0.1:5501/index.html
+https://kate-github.github.io/Horiseon/
 
 Screenshot of Deployed Application
 
